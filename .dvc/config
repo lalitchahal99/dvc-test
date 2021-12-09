@@ -1,4 +1,0 @@
-[core]
-    remote = localdata
-['remote "localdata"']
-    url = ../../DvcStore
